@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":196:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:3:{s:37:"RobotControllerTest::testMoveFunction";d:0.002;s:37:"RobotControllerTest::testLeftFunction";d:0;s:38:"RobotControllerTest::testRightFunction";d:0;}}}
