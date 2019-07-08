@@ -1,5 +1,5 @@
 # Adventures of R2D2 on Planet 5-squared
-This is a simple MVC styled PHP application built simulare a robot (ie. R2D2) moving on a 5x5 square planet.
+This is a simple MVC styled PHP application built simulate a robot (ie. R2D2) moving on a 5x5 square planet.
 
 ## Tools Used
 - Docker
@@ -13,6 +13,7 @@ This is a simple MVC styled PHP application built simulare a robot (ie. R2D2) mo
 As per all my projects. I truly love the power of containerized apps. And Docker gets the job done for me always. Here is a technique is use for most of my projects.
 
 Steps:
+- First things first. Clone the repo into your working root: `$ git clone https://github.com/u1034266/MyRobotMVC.git .`
 - Since I am using `nginx`, I always like to make sure the my `nginx.conf` file is present in the `build\nginx.conf` directory path.
 - `$ docker-compose up` in a terminal. You can use `-d` to detach the ouput, or open a new `screen` terminal if in Linux. (Not a Windows guys so you'd have to figure that one out for yourself)
 - Composer Install:
