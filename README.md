@@ -52,7 +52,7 @@ Here is a list of functionality to test:
 - There's also `3` files in the `files/` directory containing three test cases that you can test via the `Upload` functionality:
     - `test1.txt` --> the output should see `R2D2` move to `(2,4,North)`.
     - `test2.txt` --> will see `R2D2` get back to the origin. He should say: `Hey dude! I am now at (0,0,West). Lets discover Planet 5-squared together. I am super chaaaarrrrggggeeeeeed!!!`
-    - `test3.txt` --> will see `R2D1` again fall out of the planet at: `Hey dude! I am now at (1,0,North)`.
+    - `test3.txt` --> will see `R2D1` at: `Hey dude! I am now at (1,0,North)`.
 
 Let the journey begin!
 
