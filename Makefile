@@ -8,3 +8,6 @@ initialize:
 reset_perms:
 	@echo '==== Resetting file permissions ===='
 	@chmod -R 777 *
+
+test_command:
+    @echo 'Testing here'
